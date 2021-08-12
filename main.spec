@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(['main.pyw'],
-             pathex=['C:\\Users\\z004b1km\\Desktop\\mouseMover'],
+             pathex=['C:\\UserData\\z004b1km\\Documents\\autoTyper'],
              binaries=[],
              datas=[],
              hiddenimports=[],
